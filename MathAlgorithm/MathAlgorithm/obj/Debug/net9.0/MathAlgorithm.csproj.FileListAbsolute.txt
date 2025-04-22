@@ -1,0 +1,14 @@
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\bin\Debug\net9.0\MathAlgorithm.exe
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\bin\Debug\net9.0\MathAlgorithm.deps.json
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\bin\Debug\net9.0\MathAlgorithm.runtimeconfig.json
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\bin\Debug\net9.0\MathAlgorithm.dll
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\bin\Debug\net9.0\MathAlgorithm.pdb
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.AssemblyInfoInputs.cache
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.AssemblyInfo.cs
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.dll
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\refint\MathAlgorithm.dll
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.pdb
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\MathAlgorithm.genruntimeconfig.cache
+C:\Users\griga\Documents\Rider\MathAlgorithm\MathAlgorithm\obj\Debug\net9.0\ref\MathAlgorithm.dll
