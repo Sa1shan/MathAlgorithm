@@ -3,17 +3,15 @@ namespace MathAlgorithm;
 public class Program
 {
     public static TwoArrow twoArrow = new TwoArrow();
-    public static SquareRoot squareRoot = new SquareRoot();
     public static HIndex HIndex = new HIndex();
     public static FindNumber FindNumber = new FindNumber();
-    public static RobingHouses RobingHouses = new RobingHouses();
+    public static ChangeSymbol ChangeSymbol = new ChangeSymbol();
     
     static void Main(string[] args)
     {
-        // twoArrow.FindNumberTwoArrow();
-        // squareRoot.FindSquareRoot();
-        HIndex.FindHIndex();
+        twoArrow.FindNumberTwoArrow();
+        // HIndex.FindHIndex();
         // FindNumber.FindNumberInTable();
-        // RobingHouses.FindRobingHouses();
+        // ChangeSymbol.SymbolChenging();
     }
 }

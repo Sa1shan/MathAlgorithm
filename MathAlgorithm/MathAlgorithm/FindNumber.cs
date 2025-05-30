@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace MathAlgorithm;
 
 public class FindNumber
@@ -50,7 +52,7 @@ public class FindNumber
                 Console.WriteLine($"Число {k} найдено на позиции ({row + 1}, {col + 1})");
                 break;
             }
-            else if (table[row, col] > k) // если число в позиции (0, n - 1) больше то двигаем столбец вправо 
+            else if (table[row, col] > k) // если число в позиции (0, n - 1) больше то двигаем столбец влево 
             {
                 col--; // Двигаемся влево
             }
